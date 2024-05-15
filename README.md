@@ -7,10 +7,10 @@
 - Finalizado 13/05/2024
 
 ## Template Principal
-![](./assets/repository/t-p-1.png)
+![](./src/assets/repository/t-p-1.png)
 
 ## Mobile (Responsivo)
-<img src="./assets/repository/t-c-1.jpeg.png" width="500">
+<img src="./src/assets/repository/t-c-1.jpeg" width="500">
 
 ## Contato:
 | Integrante | Usuário Git | E-mail para contato |
