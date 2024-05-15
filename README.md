@@ -1,30 +1,18 @@
-# todovue
+## RightTime (TempoCerto)
+- Aplicativo Frontend desenvolvido em Vue.js onde permite que o usuário crie, edite, exclua as tarefas do seu dia a dia
+- Destinado ao estudo do Vue.js
 
-> A Vue.js project
+## Situação
+- Desenvolvimento 10/05/2024
+- Finalizado 13/05/2024
 
-## Build Setup
+## Template Principal
+![](./assets/repository/t-p-1.png)
 
-``` bash
-# install dependencies
-npm install
+## Mobile (Responsivo)
+<img src="./assets/repository/t-c-1.jpeg.png" width="500">
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Contato:
+| Integrante | Usuário Git | E-mail para contato |
+| --- | --- | --- |
+| Leandro Lobo | [@LeandroLobo](https://github.com/bigolho16) | bigolho900@gmail.com |
