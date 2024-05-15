@@ -30,7 +30,7 @@
             <th>Tarefa</th>
             <th>Prioridade</th>
             <th>Status</th>
-            <th>Ação</th>
+            <th>Alterações</th>
           </tr>
         </thead>
         <tbody class="bg-secondary">
