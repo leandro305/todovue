@@ -1,5 +1,5 @@
-## RightTime (TempoCerto)
-- Aplicativo Frontend desenvolvido em Vue.js onde permite que o usuário crie, edite, exclua as tarefas do seu dia a dia
+## TodoVue
+- Aplicativo Frontend desenvolvido em Vue.js onde permite que o usuário crie, visualize, edite e exclua as tarefas do seu dia a dia
 - Destinado ao estudo do Vue.js
 
 ## Situação
